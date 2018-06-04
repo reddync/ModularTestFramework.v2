@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="A ChallengingDom" parallel="tests">
+    <listeners>
+        <listener class-name="utilities.Listeners.TestListener"/>
+    </listeners>
+    <test name="GetAttributesTest.GetAttributesButtons" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.GetAttributesTest.GetAttributesButtons"/>
+        </classes>
+    </test>
+    <test name="GetAttributesTest.GetAttributesTableHeaders" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.GetAttributesTest.GetAttributesTableHeaders"/>
+        </classes>
+    </test>
+
+    <test name="TableTests.EditDelete." thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.TableTests.EditDelete"/>
+        </classes>
+    </test>
+    <test name="TableTests.NoOfRowsAndColumns" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.TableTests.NoOfRowsAndColumns"/>
+        </classes>
+    </test>
+    <test name="TableTests.TablesNoOfColumnsAndRows" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.TableTests.TablesNoOfColumnsAndRows"/>
+        </classes>
+    </test>
+    <test name="TableTests.GetColInnerText" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.TableTests.GetTableInnerText"/>
+        </classes>
+    </test>
+    <test name="GetAttributesTest.GetTableInnerText" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.TableTests.GetTableInnerText"/>
+        </classes>
+    </test>
+    <test name="GetAttributesTest.Page" thread-count="5" parallel="tests">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="tests.HandlingTables.GetAttributesTest.PageAttributes"/>
+        </classes>
+    </test>
+</suite>
