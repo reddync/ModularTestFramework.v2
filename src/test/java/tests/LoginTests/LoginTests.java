@@ -11,8 +11,8 @@ import java.lang.reflect.Method;
 public class LoginTests extends BaseTest {
 
     //Test Data
-    String wrongUsername = "onur@swtestacademy.com";
-    String wrongPassword = "11122233444";
+    String wrongUsername = "test@test.com";
+    String wrongPassword = "7777777777";
 
     @Test(priority = 0, description = "Invalid Login Scenario with wrong username and password.")
     public void invalidLoginTest_InvalidUserNameInvalidPassword(Method method) {
