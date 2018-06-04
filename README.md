@@ -5,17 +5,9 @@
  
  
  Still a work in progess , but allows me to write quick and easily maintainable tests. 
- 
-##to do##
-bdd
-grid
-docker
-aws
-write console log to extent report.  
-add meaningful messages to listeners. 
-commennt test for extent logs.  
-add a challenging DOM to pagefactory.
-look at other reporting options. 
+ Example NHS.co.uk log in tests using Page Objects HomePage and LogInPage
+ Oter dynamic table and attributes tests for the "Challenging DOM" assignment.
+
 
   
   
