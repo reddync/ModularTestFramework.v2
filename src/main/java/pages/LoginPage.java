@@ -10,11 +10,11 @@ import org.testng.Assert;
 public class LoginPage extends BasePage {
 
     //*********Web Elements*********
-    String usenameId = "email";
-    String passwordId = "password";
-    String loginButtonId = "loginButton";
-    String errorMessageUsernameXpath = "//*[@id=\"loginForm\"]/div[1]/div/div";
-    String errorMessagePasswordXpath = "//*[@id=\"loginForm\"]/div[2]/div/div ";
+    String ueserNameXpath = "//input[@value='Enter email address']";
+    String passwordId = "//input[@type='password']";
+    String loginbuttonXpath = "//input[@value='Log in']";
+    String errorMessageUsernameXpath = "//p[contains(@class,'error')]";
+    String errorMessagePasswordXpath = "//p[contains(@class,'error')]";
     //*********Constructor*********
     public LoginPage(WebDriver driver, WebDriverWait wait) {
         super(driver);
@@ -22,13 +22,14 @@ public class LoginPage extends BasePage {
 
     //*********Page Methods*********
     @Step("Login Step with username: {0}, password: {1}, for method: {method} step...")
-    public void loginToN11(String username, String password) {
+    public void logIntoNhs(String username, String password) {
         //Enter Username(Email)
-        writeText(By.id(usenameId), username);
+        writeText(By.xpath(ueserNameXpath), username);
         //Enter Password
-        writeText(By.id(passwordId), password);
+        writeText(By.xpath(passwordId), password);
         //Click Login Button
-        click(By.id(loginButtonId));
+        click(By.xpath(loginbuttonXpath));
+
     }
 
     //Verify Username Condition

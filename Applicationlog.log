@@ -23514,3 +23514,323 @@
   DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
 2018-Jun-04 01:38:55,570 [TestNG-tests-3] freemarker.cache 
   DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 02:54:42,457 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 02:54:42,474 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 02:54:42,475 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 02:54:42,475 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 02:54:42,476 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 02:57:35,974 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 02:57:35,976 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 02:57:35,976 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 02:57:35,977 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 02:57:35,977 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 02:59:33,952 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 02:59:33,954 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 02:59:33,955 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 02:59:33,956 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 02:59:33,956 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:00:55,101 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:00:55,104 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:00:55,104 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:00:55,105 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:00:55,105 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:02:15,322 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:02:15,324 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:02:15,438 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:02:15,439 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:02:15,439 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:03:37,119 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:03:37,120 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:03:37,121 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:03:37,122 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:03:37,122 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:05:13,781 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:05:13,782 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:05:13,783 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:05:13,783 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:05:13,784 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:05:54,099 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:05:54,101 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:05:54,102 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:05:54,102 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:05:54,102 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:07:16,193 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:07:16,196 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:07:16,197 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:07:16,198 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:07:16,198 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:08:39,781 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:08:39,783 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:08:39,784 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:08:39,785 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:08:39,785 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:09:15,783 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:09:15,785 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:09:15,785 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:09:15,786 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:09:15,786 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:09:38,394 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:09:38,395 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:09:38,396 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:09:38,397 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:09:38,397 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:10:22,586 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:10:22,588 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:10:22,588 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:10:22,589 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:10:22,589 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:14:06,545 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:14:06,547 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:14:06,548 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:14:06,548 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:14:06,548 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:15:49,022 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:15:49,024 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:15:49,025 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:15:49,025 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:15:49,026 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:18:51,975 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:18:51,977 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:18:51,979 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:18:51,979 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:18:51,980 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:19:59,280 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:19:59,282 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:19:59,283 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:19:59,283 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:19:59,283 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:21:15,025 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:21:15,027 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:21:15,028 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:21:15,029 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:21:15,029 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:21:38,248 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:21:38,250 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:21:38,251 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:21:38,251 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:21:38,251 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:25:08,037 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:25:08,039 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:25:08,040 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:25:08,041 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:25:08,041 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:26:59,222 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:26:59,224 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:26:59,224 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:26:59,225 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:26:59,225 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:28:29,027 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:28:29,028 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:28:29,029 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:28:29,030 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:28:29,030 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:31:41,987 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:31:41,989 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:31:41,990 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:31:41,990 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:31:41,990 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:42:12,128 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:42:12,130 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:42:12,131 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:42:12,131 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:42:12,132 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:44:13,335 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:44:13,337 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:44:13,338 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:44:13,338 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:44:13,338 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:45:09,143 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:45:09,145 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:45:09,145 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:45:09,146 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:45:09,146 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:46:16,226 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:46:16,228 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:46:16,230 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:46:16,231 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:46:16,231 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:46:48,554 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:46:48,555 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:46:48,557 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:46:48,558 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:46:48,558 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:51:14,739 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:51:14,741 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:51:14,741 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:51:14,742 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:51:14,742 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:52:13,372 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:52:13,373 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:52:13,374 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:52:13,375 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:52:13,375 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:53:01,537 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:53:01,539 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:53:01,540 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:53:01,540 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:53:01,540 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2018-Jun-04 03:53:49,869 [TestNG-tests-1] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_GB", UTF-8, parsed); will try to load it.
+2018-Jun-04 03:53:49,871 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_GB.ftl"): Not found
+2018-Jun-04 03:53:49,871 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2018-Jun-04 03:53:49,872 [TestNG-tests-1] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2018-Jun-04 03:53:49,872 [TestNG-tests-1] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_GB", UTF-8, parsed) from "jar:file:/C:/Users/odeat/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

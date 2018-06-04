@@ -34,7 +34,7 @@ public class BaseTest {
                 driver = new InternetExplorerDriver();
             }
             //Create a wait. All test classes use this.
-            wait = new WebDriverWait(driver, 15);
+            wait = new WebDriverWait(driver, 30);
             //Maximize Window
             driver.manage().window().maximize();
         } catch (WebDriverException e) {

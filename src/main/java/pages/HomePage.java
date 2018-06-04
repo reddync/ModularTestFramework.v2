@@ -9,10 +9,10 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class HomePage extends BasePage {
 
     //*********Web Elements*********
-    String signInButtonClass = "btnSignIn";
+    String signInButtonXpath = "//a[contains(.,'Log in')][1]";
 
     //*********Page Variables*********
-    String baseURL = "http://www.n11.com/";
+    String baseURL = "https://www.nhs.uk/pages/home.aspx";
 
     //*********Constructor*********
     public HomePage(WebDriver driver, WebDriverWait wait) {
@@ -23,16 +23,17 @@ public class HomePage extends BasePage {
     //*********Page Methods*********
 
     //Go to Homepage
-    @Step("Open N11 Step...")
-    public void goToN11 (){
+    @Step("Open NHS Home Page ")
+    public void goToNHS() {
         driver.get(baseURL);
+
         //driver.navigate().to(baseURL)
     }
 
     //Go to LoginPage
     @Step("Go to Login Page Step...")
     public void goToLoginPage() {
-        click(By.className(signInButtonClass));
+        click(By.xpath(signInButtonXpath));
     }
 
 }

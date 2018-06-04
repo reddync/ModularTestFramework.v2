@@ -22,17 +22,17 @@ public class LoginTests extends BaseTest {
         LoginPage loginPage = new LoginPage(driver, wait);
 
         //*************PAGE METHODS********************
-        //Open N11 HomePage
-        homePage.goToN11();
+        //Open NHS HomePage
+        homePage.goToNHS();
 
         //Go to LoginPage
         homePage.goToLoginPage();
 
-        //Login to N11
-        loginPage.loginToN11(wrongUsername, wrongPassword);
+        //Login to NHS
+        loginPage.logIntoNhs(wrongUsername, wrongPassword);
 
         //*************ASSERTIONS***********************
-        loginPage.verifyLoginPassword(("E-posta adresiniz veya şifreniz hatalı"));
+        loginPage.verifyLoginPassword(("We're sorry, the username and password does not match. Please try again."));
     }
 
     @Test(priority = 1, description = "Invalid Login Scenario with empty username and password.")
@@ -43,12 +43,12 @@ public class LoginTests extends BaseTest {
         LoginPage loginPage = new LoginPage(driver, wait);
 
         //*************PAGE METHODS********************
-        homePage.goToN11();
+        homePage.goToNHS();
         homePage.goToLoginPage();
-        loginPage.loginToN11("", "");
+        loginPage.logIntoNhs("", "");
 
         //*************ASSERTIONS***********************
-        loginPage.verifyLoginUserName("Lütfen e-posta adresinizi girin.");
+        loginPage.verifyLoginUserName("User Name is required.");
         loginPage.verifyLoginPassword("WRONG MESSAGE FOR FAILURE!");
     }
 
